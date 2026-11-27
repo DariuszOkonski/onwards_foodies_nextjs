@@ -13,6 +13,9 @@ export default function Home() {
         <Link href="/meals/share">Share Meal</Link>
       </p>
       <p>
+        <Link href="/meals/1">MealDetailsPage</Link>
+      </p>
+      <p>
         <Link href="/community">Community</Link>
       </p>
     </main>
